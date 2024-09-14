@@ -4,6 +4,23 @@
 **🌿 O que é o Mo'ã?**
 O Projeto Mo'ã é uma iniciativa sustentável que combina conhecimento tradicional da Amazônia com tecnologias modernas para desenvolver um repelente elétrico inovador e ecológico. Utilizando o óleo de andiroba, extraído por comunidades locais, o Mo'ã oferece uma alternativa segura e eficiente aos repelentes químicos convencionais.
 
+**🚀 Destaque**: Este projeto foi parte do Amazon Hacking 2024, onde ganhou a primeira etapa de pitches e pré-projeto em primeiro lugar! 🎉
+
+**🤝  Mentoria e Validação**
+O projeto Mo'ã recebeu mentoria e validação de grandes empresas comprometidas com a sustentabilidade e inovação, como:
+
+**Vale
+Tata Consultancy Services
+Accenture**
+Entre outras empresas líderes de mercado.
+**🌍 O que é o Amazon Hacking?**
+O Amazon Hacking é um programa de formação para alunos da Escola de Negócios, Tecnologia e Inovação do CESUPA - ARGO, que visa conectar empresas comprometidas com a sustentabilidade amazônica, a comunidade local e seu conhecimento tradicional, junto ao conhecimento científico e tecnológico, em prol do desenvolvimento bioeconômico da região com uma perspectiva global.
+
+**Objetivos do Amazon Hacking:**
+Inter-relacionamento entre alunos e empresas de tecnologia do mercado.
+Fomento de soluções tecnológicas e empreendedoras na região amazônica.
+Desenvolvimento sustentável por meio da integração de saberes tradicionais e inovação.
+
 **🛠️ Tecnologias e Metodologias Utilizadas**
 Impressão 3D: Componentes do repelente são produzidos com filamento PETG reciclado. Criado com o software AUTODESK Fusion 360.
 Óleo de Andiroba: Insumo sustentável e tradicional da Amazônia, fornecido pela AME Combu.
