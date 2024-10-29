@@ -4,7 +4,7 @@
 **🌿 O que é o Mo'ã?**
 O Projeto Mo'ã é uma iniciativa sustentável que combina conhecimento tradicional da Amazônia com tecnologias modernas para desenvolver um repelente elétrico inovador e ecológico. Utilizando o óleo de andiroba, extraído por comunidades locais, o Mo'ã oferece uma alternativa segura e eficiente aos repelentes químicos convencionais.
 
-**🚀 Destaque**: Este projeto foi parte do **Amazon Hacking 2024**, onde ganhou a primeira etapa de pitches e pré-projeto em primeiro lugar! 🎉
+**🚀 Destaque**: Este projeto foi parte do **Amazon Hacking 2024**, onde ganhou a primeira etapa de pitches e pré-projeto em primeiro lugar e a segunda etapa em quinto! 🎉
 
 **🤝  Mentoria e Validação**
 O projeto Mo'ã recebeu mentoria e validação de grandes empresas comprometidas com a sustentabilidade e inovação, como:
